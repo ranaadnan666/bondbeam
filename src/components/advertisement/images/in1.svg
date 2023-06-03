@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48.11" height="48.03" viewBox="0 0 48.11 48.03" id="signal-success-small" aria-hidden="true" role="none" data-supported-dps="48x48">
+  <circle cx="24.05" cy="24.02" r="24" fill="#9db88f"/>
+  <circle cx="24.05" cy="24.02" r="18" fill="#f8fbf6"/>
+  <circle cx="24.05" cy="24.02" r="16" fill="#d7ebce"/>
+  <path d="M32.28 17.45a2 2 0 00-2.8.35L21.91 27l-3.36-3.35A2.16 2.16 0 0017 23a1.76 1.76 0 00-.84.2 2 2 0 00-1.11 1.8 2 2 0 00.59 1.42l5 5a2 2 0 001.44.59 2 2 0 001.59-.76l9-11a2 2 0 00.38-1.25 2 2 0 00-.77-1.55z" fill="#38434f"/>
+</svg>

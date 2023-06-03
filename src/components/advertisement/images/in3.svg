@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48.11" height="48.03" viewBox="0 0 48.11 48.03" id="pencil-ruler-small" aria-hidden="true" role="none" data-supported-dps="48x48">
+  <rect x="19.58" y="-3.78" width="8.94" height="55.61" rx="1.99" transform="rotate(-45 24.049 24.019)" fill="#c0d1e2"/>
+  <path d="M9.63 8.89l2.81-2.8 1.4 1.4-2.79 2.82A1 1 0 019.62 8.9zM17.35 16.62l2.82-2.81 1.4 1.41L18.76 18a1 1 0 01-1.4-.15 1 1 0 01-.01-1.23zM30.69 30l2.81-2.81 1.41 1.4-2.81 2.83a1 1 0 01-1.4 0 1 1 0 01-.07-1.4zM38.42 37.7l2.81-2.82 1.4 1.4-2.8 2.82a1 1 0 01-1.41 0 1 1 0 01-.1-1.37.09.09 0 01.1-.03z" fill="#56687a" fill-rule="evenodd"/>
+  <path fill="#eef3f8" fill-rule="evenodd" d="M41.81 11.93l-5.66-5.67 2.83-2.82 7.07-1.42-1.41 7.08-2.83 2.83z"/>
+  <path fill="#56687a" fill-rule="evenodd" d="M42.51 2.73l3.54-.71-.71 3.53-2.83-2.82z"/>
+  <path d="M5.47 45.43L4.05 44 39 9.09a4 4 0 015.66 0L8.3 45.43a2 2 0 01-2.82 0z" fill="#e7a33e" fill-rule="evenodd"/>
+  <path d="M4.05 44l-1.41-1.39a2 2 0 010-2.82L39 3.43a4 4 0 010 5.66z" fill="#f8c77e" fill-rule="evenodd"/>
+</svg>

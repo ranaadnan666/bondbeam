@@ -1,0 +1,37 @@
+.main {
+  border-radius: 10px;
+  border: 1px solid silver;
+  background-color: white;
+  height: 200px;
+}
+.editIcon {
+  cursor: pointer;
+}
+.editIcon:hover {
+  color: blue;
+}
+.aboutText {
+  height: 200px;
+  overflow: auto;
+}
+.emptyAbout {
+  align-items: center;
+  justify-content: center;
+}
+.emptyText {
+  color: "silver";
+  text-align: "center";
+}
+.addIcon {
+  cursor: pointer;
+  color: "silver";
+}
+.addIcon:hover {
+  color: green;
+}
+.btn {
+  width: fit-content;
+  background-color: #e8ebed;
+  color: black;
+  margin: 0 auto;
+}

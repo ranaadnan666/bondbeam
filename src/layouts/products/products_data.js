@@ -1,0 +1,46 @@
+export const productsData = [
+  {
+    img: "https://i.ibb.co/1LBVvnL/group-steel-rod-tight-by-chain-lift-up-construction-site.jpg",
+    title: "Steel Rod",
+    author: "@Bondbeam",
+    price: "$234",
+    rows: 2,
+    cols: 2,
+    featured: true,
+  },
+  {
+    img: "https://i.ibb.co/d5QcX7f/construction-tall-concrete-pylon-bridge-using-tower-crane.jpg",
+    title: "Large Crane",
+    author: "@rollelflex_graphy726",
+    price: "$123900 ",
+  },
+  {
+    img: "https://i.ibb.co/qWP24WP/aerial-work-platform-lift-background-2000-30-1024x682.jpg",
+    title: "Lift",
+    author: "@hellomnik",
+    price: "$45000 ",
+  },
+  {
+    img: "https://i.ibb.co/Hr2pZv2/cement-concrete-mixer-machine-1000x1000.webp",
+    title: "Concrete Mixer",
+    author: "@nolanissac",
+    price: "$1800",
+    cols: 2,
+  },
+  {
+    img: "https://i.ibb.co/v41xwR3/mild-steel-beam.jpg",
+    title: "Steel Beam",
+    author: "@hjrc33",
+    price: "$330",
+    cols: 2,
+  },
+  {
+    img: "https://i.ibb.co/YNSWDyT/choisir-vis-fb.jpg",
+    title: "Screws",
+    author: "@arwinneil",
+    price: "$65",
+    rows: 2,
+    cols: 2,
+    featured: true,
+  },
+];
